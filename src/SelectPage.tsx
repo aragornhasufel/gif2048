@@ -11,7 +11,7 @@ import { getSignedUrl } from "@aws-sdk/s3-request-presigner";
 
 type Collection = { name: string; contents: string[] };
 const defaultSources = Array.from({ length: 11 }, (_, i) => i + 1).map(
-  (x) => `/sources/tst/${x.toString().padStart(2, "0")}.mp4`
+  (x) => `sources/tst/${x.toString().padStart(2, "0")}.mp4`
 );
 
 const SelectPage: React.FC<{ params: Record<string, string> }> = ({

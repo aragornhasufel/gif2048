@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.24717664.css",
-    "main.js": "/static/js/main.b30a195d.js",
-    "static/js/646.1ac2b59e.chunk.js": "/static/js/646.1ac2b59e.chunk.js",
-    "index.html": "/index.html",
-    "main.24717664.css.map": "/static/css/main.24717664.css.map",
-    "main.b30a195d.js.map": "/static/js/main.b30a195d.js.map",
-    "646.1ac2b59e.chunk.js.map": "/static/js/646.1ac2b59e.chunk.js.map"
+    "main.css": "https://aragornhasufel.github.io/gif2048/static/css/main.24717664.css",
+    "main.js": "https://aragornhasufel.github.io/gif2048/static/js/main.bea0d7ef.js",
+    "static/js/646.1ac2b59e.chunk.js": "https://aragornhasufel.github.io/gif2048/static/js/646.1ac2b59e.chunk.js",
+    "index.html": "https://aragornhasufel.github.io/gif2048/index.html",
+    "main.24717664.css.map": "https://aragornhasufel.github.io/gif2048/static/css/main.24717664.css.map",
+    "main.bea0d7ef.js.map": "https://aragornhasufel.github.io/gif2048/static/js/main.bea0d7ef.js.map",
+    "646.1ac2b59e.chunk.js.map": "https://aragornhasufel.github.io/gif2048/static/js/646.1ac2b59e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24717664.css",
-    "static/js/main.b30a195d.js"
+    "static/js/main.bea0d7ef.js"
   ]
 }
